@@ -1,0 +1,25 @@
+Moon Lander
+A programból való kilépés:  
+A programablak bal felső sarkában található piros X-el, Alt+F4 billentyűkombinációval, vagy a fő menü legalján található Exit gombbal lehet a programból kilépni 
+ 
+Új játék indítása:  
+A fő menüben található Land gomb megnyomásával lehet új játékot indítani. 
+Új játék kezdetekor a holdkomp felgyorsul, majd a képernyő bal felső sarkából jelenik meg újra. Ez után lehet elkezdeni a leszállást. A holdkomp adatai a jobb felső sarokban jelennek meg: 
+	• Vízszintes irányú sebesség 
+	• Függőleges irányú sebesség 
+	• Elfordulás 
+	• Hátralévő üzemanyag – eltelt idő 
+A holdkomp akkor tud biztonságosan földet érni, ha a bal felső sarokban az adatok mellett három zöld kör jelenik meg. 
+
+A holdkomp irányítása: 
+A holdkomp elfordulása a bal és jobb nyilak lenyomásával állítható. A hajtómű bekapcsolt állapotban tartásához a felfelé mutató nyilat kell nyomva tartani. 
+
+A játék vége, pontszámítás: 
+Ha a holdkomp nem robban fel leérkezéskor, a leszállás sikeresnek tekinthető. (Ezt egy üzenet is megerősíti a játék végén) Ekkor pontszámítás történik az eltelt idő, a megmaradt üzemanyag, a nehézség és a terep felbontása alapján. (Több pont szerezhető nehezebb nehézségen és nagyobb felbontáson.) A képbe csúszó ablakról sikeres leszállás esetén leolvasható a szerzett pontszám, különben a leszállás sikertelenségét okozó hibára utaló szöveg lesz látható. 
+Ez után vissza lehet térni a fő menübe a Leave feliratú gombbal, vagy lehet újra próbálkozni ugyan azon a terepen egy újabb leszállással a Try again feliratú gombbal. 
+ 
+A játék beállításai: 
+A játék állítható nehézséggel és terepmérettel rendelkezik, ezek a Settings menüpontban érhetőek el 
+ 
+Visszajátszások, eddig elért legmagasabb pontszám:  
+Az eddig befejezett (sikeres vagy sikertelen) leszállási próbálkozások visszanézhetőek a főmenüből elérhető Replays menüpontban. Egy visszajátszás megtekintéséhez az előkerülő listában a visszajátszás nevével megegyező szöveggel rendelkező gombot kell megnyomni. A visszajátszásból való kilépés a Back gomb megnyomásával érhető el. 
